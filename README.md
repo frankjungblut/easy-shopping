@@ -1,1 +1,1 @@
-Projeto realizado para fins de profólio e familiarização da ferramenta figma.
+Projeto realizado para fins de portfólio e familiarização da ferramenta figma.
